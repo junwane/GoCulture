@@ -1,0 +1,26 @@
+﻿Respond: user:hercules bot:dorothy ip:127.0.0.1 (~introductions) 1  음악 좋아해요? ==> Have you been here before?  When:Jul21'17-17:44:37 Why:~introductions.2.0.~control.9.0   F:110 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~childhood) 2  음악 좋아해요? ==> Did you run away from home when you were little?  When:Jul21'17-17:44:55 Why:~childhood.0.0.~control.9.0   F:47 
+Start: user:hercules bot:dorothy ip:127.0.0.1 rand:99 (~introductions) 2 ==> Hello, again.  When:Jul21'17-17:45:01 Version:7.52 Build0:Jul08'17-10:20:54 Build1:Jul21'17-17:33:19 0:Jul21'17-17:44:37 F:0 P:Jul21'17-17:44:55 Why:~introductions.0.0.~control.0.0 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~childhood) 3  음악 좋아해요? ==> I ran away once, but my parents found me and dragged me back.  When:Jul21'17-17:49:04 Why:~childhood.1.0=RUNAWAY.~control.9.0   F:62 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~childhood) 4  음악 좋아해요? ==> What scared you as a kid?  When:Jul21'17-18:40:46 Why:~childhood.2.0.~control.9.0   F:62 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~childhood) 5  음악 좋아해요? ==> I was scared of machines. I had vivid dreams of the Terminator robots.  When:Jul21'17-18:42:48 Why:~childhood.3.0=SCARE.~control.9.0   F:78 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~childhood) 6  음악 좋아해요? ==> Did you have a happy childhood?  When:Jul21'17-18:43:57 Why:~childhood.4.0.~control.9.0   F:78 
+Command: :restart
+System restarted Fri Jul 21 18:51:18 2017
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~kpop) 7  :restart ==> 혹시 K-POP 좋아하세요?  When:Jul21'17-18:54:07 Why:~kpop.0.0=KPOPINTRO.~control.9.0   F:188 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~kpop) 8  음악 좋아해요? ==> 저는 K-POP을 좋아해요.  When:Jul21'17-18:54:56 Why:~kpop.1.0=FAVEKPOP.~kpop.2.0   F:47 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~kpop) 9  티아라가 부르는 노래를 좋아해요? ==> 혹시 K-POP 좋아하세요?  When:Jul21'17-19:05:16 Why:~kpop.0.0=KPOPINTRO.~control.9.0   F:141 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~kpop) 10  티아라가 부르는 노래를 좋아해요? ==> 저는 K-POP을 좋아해요.  When:Jul21'17-19:05:28 Why:~kpop.1.0=KPOP.~control.9.0   F:140 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~kpop) 11  음악 좋아해요? ==> I don't know what to say.  When:Jul21'17-19:05:30 Why:~control.9.0.~control.9.0   F:63 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~kpop) 12  음악 좋아해요? ==> I don't know what to say.  When:Jul21'17-19:05:32 Why:~control.9.0.~control.9.0   F:63 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~kpop) 13  마마무 ==> I don't know what to say.  When:Jul21'17-19:05:36 Why:~control.9.0.~control.9.0   F:0 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~kpop) 14  맘무 ==> I don't know what to say.  When:Jul21'17-19:05:37 Why:~control.9.0.~control.9.0   F:0 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~kpop) 15  마마무 ==> I don't know what to say.  When:Jul21'17-19:05:39 Why:~control.9.0.~control.9.0   F:16 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~kpop) 16  티아라가 부르는 노래 좋아? ==> I don't know what to say.  When:Jul21'17-19:05:48 Why:~control.9.0.~control.9.0   F:94 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~kpop) 17  티아라가 부르는 노래 좋아해요? ==> I don't know what to say.  When:Jul21'17-19:05:56 Why:~control.9.0.~control.9.0   F:125 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~kpop) 18  티아라가 부르는 노래를 좋아해요? ==> I don't know what to say.  When:Jul21'17-19:06:02 Why:~control.9.0.~control.9.0   F:125 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~kpop) 19  티아라가 부르는 노래를 좋아해요? ==> I don't know what to say.  When:Jul21'17-19:06:10 Why:~control.9.0.~control.9.0   F:140 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~kpop) 20  티아라가 부르는 노래를 좋아해요? ==> I don't know what to say.  When:Jul21'17-19:06:13 Why:~control.9.0.~control.9.0   F:156 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~kpop) 21  투애니원을 좋아해요? ==> 예. 저는 투애니원을 아주 좋아해요.  When:Jul21'17-19:06:49 Why:~kpop.2.0.~control.9.0   F:125 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~kpop) 22  음악 좋아해요? ==> I don't know what to say.  When:Jul21'17-19:06:53 Why:~control.9.0.~control.9.0   F:78 
+Respond: user:hercules bot:dorothy ip:127.0.0.1 (~kpop) 23  뭐냐이건 ==> I don't know what to say.  When:Jul21'17-19:06:57 Why:~control.9.0.~control.9.0   F:94 

@@ -1,0 +1,25 @@
+﻿USERS/topic_alphago_dorothy.txt
+jul2116 Jul21'17-17:23:32 Jul21'17-19:17:46 0 |
+1 1 ~introductions !Mb eQaZFIs*Ok3  DY 0 6 6 0 # start, input#, rejoindertopic,rejoinderid (a:  ( ~yes ) Welcome back! ),checksum
+~introductions #pending
+~introductions + 1 eQaZFIs*Ok3 ca 1 0 0 
+#`end topics
+$cs_randindex=161
+$cs_bot=Dorothy
+$cs_login=alphago
+$cs_token=163583
+$cs_control_main=~control
+$userprompt=alphago: >
+$botprompt=Dorothy: 
+$singleresponse=1
+$cs_trace=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ :bulid Dorothy
+#`end user
+ Welcome to ChatScript.
+ Have you been here before?
+#`end chatbot

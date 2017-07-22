@@ -1,0 +1,18 @@
+:testpattern ( 음악 좋아* ) 음악 좋아해요
+
+
+:word 투애니원
+
+
+concept: ~투애니원사전 NOUN_PROPER_SINGULAR [ 투애니원 2ne1 twoanyone 뚜애니원 투에니원 공산박씨 ]
+concept: ~티아라사전 NOUN_PROPER_SINGULAR [ 티아라 tara t-ara ]
+concept: ~마마무사전 NOUN_PROPER_SINGULAR [ 마마무 맘마무 맘무 mamamoo mamamo ]
+concept: ~음악 [ 노래 곡 음악 kpop 가사 song 공연 공연장 콘서트 컨서트 ]
+
+Topic: ~Kpop keep repeat [ ~투애니원 ~티아라 ~마마무 ~노래 ]
+
+t: KPOPINTRO () 혹시 K-POP 좋아하세요?
+t: KPOP () 저는 K-POP을 좋아해요
+
+#! 음악 좋아해요?
+?: (~음악 좋아*) reuse(KPOP)

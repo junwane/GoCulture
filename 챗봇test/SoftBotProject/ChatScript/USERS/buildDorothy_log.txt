@@ -1,0 +1,72 @@
+﻿ChatScript Version 7.52  compiled Jul  8 2017 14:55:30
+
+>>Reading folder ../Dorothy/
+
+----Reading file childhood.top
+Reading topic ~childhood
+
+----Reading file introductions.top
+Reading topic ~introductions
+*** Warning-  File ../Dorothy/introductions.top has no utf8 BOM but has character>127
+
+----Reading file keywordless.top
+Reading topic ~keywordless
+
+----Reading file kpop.top
+Reading topic ~kpop
+*** Warning-  File ../Dorothy/kpop.top has no utf8 BOM but has character>127
+
+----Reading file kpopConcept.top
+Reading concept ~투애니원사전
+Reading concept ~티아라사전
+Reading concept ~마마무사전
+Reading concept ~노래사전
+Reading concept ~투애니원
+Reading concept ~티아라
+Reading concept ~마마무
+Reading concept ~노래
+Reading Tablemacro: ^nounpluspp
+Reading Tablemacro: ^addelement
+Illegal query name: ?   in kpopConcept.top at 44: 
+    Illegal query name: ?   in kpopConcept.top at 49: 
+    *** Warning-  File ../Dorothy/kpopConcept.top has no utf8 BOM but has character>127
+*** Warning- line 0 of LIVEDATA: Missing file ../Dorothy/LIVEDATA
+*** Warning- line 0 of RAWDATA: Missing file ../Dorothy/RAWDATA
+
+----Reading file simplecontrol.top
+Reading outputmacro: ^dorothy
+Reading table ^tbl:defaultbot
+Reading topic ~control
+Reading topic ~xpostprocess
+
+<<end folder ../Dorothy
+*** Warning- line 0 of LiveData: Missing file ../Dorothy/LiveData
+*** Warning-  Undefined set or topic ~음악 line 14 in kpop.top
+*** Warning-  Undefined set or topic ~quibble_all line 74 in simplecontrol.top
+*** Warning- line 1 of missingLabel.txt: Missing cross-topic label ~KPOP.TNO for reuse in File: kpop.top Line: 17
+
+WARNING SUMMARY: 
+  line 27 of : File ../Dorothy/introductions.top has no utf8 BOM but has character>127
+
+  line 22 of : File ../Dorothy/kpop.top has no utf8 BOM but has character>127
+
+  line 51 of : File ../Dorothy/kpopConcept.top has no utf8 BOM but has character>127
+
+  line 0 of LIVEDATA: Missing file ../Dorothy/LIVEDATA
+
+  line 0 of RAWDATA: Missing file ../Dorothy/RAWDATA
+
+  line 0 of LiveData: Missing file ../Dorothy/LiveData
+
+  line 5 of : Undefined set or topic ~음악 line 14 in kpop.top
+
+  line 7 of : Undefined set or topic ~quibble_all line 74 in simplecontrol.top
+
+  line 1 of missingLabel.txt: Missing cross-topic label ~KPOP.TNO for reuse in File: kpop.top Line: 17
+
+3 topic files were missing.
+9 serious warnings, 0 function warnings, 0 spelling warnings, 0 case warnings, 0 substitution warnings
+    
+
+Finished compile
+

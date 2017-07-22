@@ -1,0 +1,71 @@
+USERS/topic_hercules_dorothy.txt
+jul2116 Jul21'17-17:44:37 Jul21'17-19:06:57 1500631539-5.9.0.5.9.0 |
+3 23 0 DY 0 6 6 0 # start, input#, no rejoinder, #0topics, #1topics, layer2
+~introductions ~childhood ~kpop #pending
+~childhood + 2 BX!F!Is*Ok3 piaa 6 0 0 
+~introductions + 1 eQaZFIs*Ok3 ca 2 0 0 
+~kpop + 1 !E4-pIs*Ok3 ma l 0 0 
+#`end topics
+$cs_randindex=96
+$cs_bot=Dorothy
+$cs_login=hercules
+$cs_token=163583
+$cs_control_main=~control
+$userprompt=hercules: >
+$botprompt=Dorothy: 
+$singleresponse=1
+$cs_trace=0
+#`end variables
+0 #set flags
+#`end fact sets
+#`end user facts 0
+#context 
+ 음악 좋아해요?
+ 음악 좋아해요?
+ 음악 좋아해요?
+ 음악 좋아해요?
+ 음악 좋아해요?
+ 음악 좋아해요?
+ :restart
+ 음악 좋아해요?
+ 티아라가 부르는 노래를 좋아해요?
+ 티아라가 부르는 노래를 좋아해요?
+ 음악 좋아해요?
+ 음악 좋아해요?
+ 마마무
+ 맘무
+ 마마무
+ 티아라가 부르는 노래 좋아?
+ 티아라가 부르는 노래 좋아해요?
+ 티아라가 부르는 노래를 좋아해요?
+ 티아라가 부르는 노래를 좋아해요?
+ 티아라가 부르는 노래를 좋아해요?
+ 투애니원을 좋아해요?
+ 음악 좋아해요?
+ 뭐냐이건
+#`end user
+ Have you been here before?
+ Did you run away from home when you were little?
+ Hello, again.
+ I ran away once, but my parents found me and dragged me back.
+ What scared you as a kid?
+ I was scared of machines. I had vivid dreams of the Terminator robots.
+ Did you have a happy childhood?
+ 혹시 K-POP 좋아하세요?
+ 저는 K-POP을 좋아해요.
+ 혹시 K-POP 좋아하세요?
+ 저는 K-POP을 좋아해요.
+ I don't know what to say.
+ I don't know what to say.
+ I don't know what to say.
+ I don't know what to say.
+ I don't know what to say.
+ I don't know what to say.
+ I don't know what to say.
+ I don't know what to say.
+ I don't know what to say.
+ I don't know what to say.
+ 예. 저는 투애니원을 아주 좋아해요.
+ I don't know what to say.
+ I don't know what to say.
+#`end chatbot

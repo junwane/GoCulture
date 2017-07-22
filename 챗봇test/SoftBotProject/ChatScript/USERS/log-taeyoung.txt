@@ -1,0 +1,32 @@
+﻿Command: :restart
+System restarted Fri Jul 21 18:54:26 2017
+Command: :reset
+Start: user:taeyoung bot:dorothy ip:127.0.0.1 rand:4081 (~introductions) 0 ==> Welcome to ChatScript.  When:Jul21'17-18:54:30 Version:7.52 Build0:Jul08'17-10:20:54 Build1:Jul21'17-18:50:18 0:Jul21'17-18:54:30 F:0 P:0 Why:~introductions.1.0.~control.0.0 
+Respond: user:taeyoung bot:dorothy ip:127.0.0.1 (~introductions) 1  음악 좋아해요? ==> Have you been here before?  When:Jul21'17-18:54:45 Why:~introductions.2.0.~control.9.0   F:63 
+Command: :restart
+System restarted Fri Jul 21 19:03:30 2017
+Command: :reset
+Start: user:taeyoung bot:dorothy ip:127.0.0.1 rand:4081 (~introductions) 0 ==> Welcome to ChatScript.  When:Jul21'17-19:03:40 Version:7.52 Build0:Jul08'17-10:20:54 Build1:Jul21'17-19:03:05 0:Jul21'17-18:54:30 F:0 P:Jul21'17-18:54:45 Why:~introductions.1.0.~control.0.0 
+Respond: user:taeyoung bot:dorothy ip:127.0.0.1 (~kpop) 1  투애니원을 좋아해요? ==> 예. 저는 투애니원을 아주 좋아해요.  When:Jul21'17-19:03:56 Why:~kpop.2.0.~control.9.0   F:156 
+Respond: user:taeyoung bot:dorothy ip:127.0.0.1 (~kpop) 2  티아라가 부르는 노래 좋아해요? ==> 혹시 K-POP 좋아하세요?  When:Jul21'17-19:04:10 Why:~kpop.0.0=KPOPINTRO.~control.9.0   F:125 
+Respond: user:taeyoung bot:dorothy ip:127.0.0.1 (~kpop) 3  티아라가 부르는 노래를 좋아해요? ==> 저는 K-POP을 좋아해요.  When:Jul21'17-19:04:25 Why:~kpop.1.0=KPOP.~control.9.0   F:125 
+Command: :restart
+System restarted Fri Jul 21 19:24:36 2017
+User data file CONTEXT inconsistent
+3 Fri Jul 21 19:24:40 2017 in sentence: 뭐냐이건 
+    User data file inconsistent
+3 Fri Jul 21 19:24:40 2017 in sentence: 뭐냐이건 
+    Command: :reset
+Start: user:taeyoung bot: ip:127.0.0.1 rand:4081 () 0 ==>   When:Jul21'17-19:24:40 Version:7.52 Build0:Jul08'17-10:20:54 Build1: 0:Jul21'17-18:54:30 F:0 P:Jul21'17-19:04:25 
+User data file CONTEXT inconsistent
+User data file inconsistent
+Command: :reset
+Start: user:taeyoung bot: ip:127.0.0.1 rand:4081 () 0 ==>   When:Jul21'17-19:25:24 Version:7.52 Build0:Jul08'17-10:20:54 Build1: 0:Jul21'17-18:54:30 F:0 P:Jul21'17-19:04:25 
+User data file CONTEXT inconsistent
+User data file inconsistent
+Command: :restart
+System restarted Fri Jul 21 19:41:56 2017
+Command: :reset
+Start: user:taeyoung bot:dorothy ip:127.0.0.1 rand:4081 (~introductions) 0 ==> Welcome to ChatScript.  When:Jul21'17-19:42:01 Version:7.52 Build0:Jul08'17-10:20:54 Build1:Jul21'17-19:41:30 0:Jul21'17-18:54:30 F:0 P:Jul21'17-19:04:25 Why:~introductions.1.0.~control.0.0 
+Respond: user:taeyoung bot:dorothy ip:127.0.0.1 (~kpop) 1  투애니원을 좋아해요? ==> 예. 저는 투애니원을 아주 좋아해요.  When:Jul21'17-19:42:29 Why:~kpop.2.0.~control.9.0   F:63 
+Respond: user:taeyoung bot:dorothy ip:127.0.0.1 (~kpop) 2  티아라가 부르는 노래를 좋아해요? ==> 아니오. 듣는 것을 더 좋아해요.  When:Jul21'17-19:42:35 Why:~kpop.3.0.~control.9.0   F:141 
