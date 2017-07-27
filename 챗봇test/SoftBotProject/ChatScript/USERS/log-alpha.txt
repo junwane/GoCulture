@@ -1,2 +1,0 @@
-﻿No such bot  alpha -  -  status: defaultbot word not found   in topic_alpha_anonymous.txt at 1: ^anonymous
-    
